@@ -1,3 +1,16 @@
 [submodule "vendor/tmux-mem-cpu-load"]
 	path = vendor/tmux-mem-cpu-load
-	url = https://github.com/thewtex/tmux-mem-cpu-load.git
+  url = https://github.com/thewtex/tmux-mem-cpu-load.git
+
+[submodule "plugin/tmux-nerd-font-window-name"]
+  path = plugin/tmux-nerd-font-window-name
+  url = https://github.com/joshmedeski/tmux-nerd-font-window-name
+
+[submodule "plugin/tmux-sensible"]
+  path = plugin/tmux-sensible
+  url = https://github.com/tmux-plugins/tmux-sensible
+
+[submodule "plugin/tpm"]
+  path = plugin/tpm
+  url = https://github.com/tmux-plugins/tpm
+
