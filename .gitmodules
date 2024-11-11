@@ -14,3 +14,6 @@
   path = plugin/tpm
   url = https://github.com/tmux-plugins/tpm
 
+[submodule "plugin/tmux-network-bandwidth"]
+  path = plugin/tmux-network-bandwidth
+  url = https://github.com/ilya-manin/tmux-network-bandwidth
