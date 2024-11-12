@@ -1,19 +1,21 @@
 [submodule "vendor/tmux-mem-cpu-load"]
 	path = vendor/tmux-mem-cpu-load
   url = https://github.com/thewtex/tmux-mem-cpu-load.git
-
-[submodule "plugin/tmux-nerd-font-window-name"]
-  path = plugin/tmux-nerd-font-window-name
+[submodule "plugins/tmux-nerd-font-window-name"]
+  path = plugins/tmux-nerd-font-window-name
   url = https://github.com/joshmedeski/tmux-nerd-font-window-name
-
-[submodule "plugin/tmux-sensible"]
-  path = plugin/tmux-sensible
+[submodule "plugins/tmux-sensible"]
+  path = plugins/tmux-sensible
   url = https://github.com/tmux-plugins/tmux-sensible
-
-[submodule "plugin/tpm"]
-  path = plugin/tpm
+[submodule "plugins/tpm"]
+  path = plugins/tpm
   url = https://github.com/tmux-plugins/tpm
-
-[submodule "plugin/tmux-network-bandwidth"]
-  path = plugin/tmux-network-bandwidth
+[submodule "plugins/tmux-network-bandwidth"]
+  path = plugins/tmux-network-bandwidth
   url = https://github.com/ilya-manin/tmux-network-bandwidth
+[submodule "catppuccin"]
+	path = plugins/catppuccin
+	url = https://github.com/catppuccin/tmux.git
+[submodule "tmux-cpu"]
+	path = plugins/tmux-cpu
+	url = https://github.com/tmux-plugins/tmux-cpu.git
