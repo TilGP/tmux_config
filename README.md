@@ -19,6 +19,14 @@ own, submit it to [awesome-tmux-configs](https://github.com/tony/awesome-tmux-co
 
 ## Installation
 
+### With script
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/TilGP/tmux_config/refs/heads/master/install.sh)"
+```
+
+### Manual install
+
 Download:
 
 ```bash
@@ -210,7 +218,7 @@ Custom:
 
 ## Other
 
-- Github: http://www.github.com/tony
-- Website: http://www.git-pull.com
+- Github: <http://www.github.com/tony>
+- Website: <http://www.git-pull.com>
 - LICENSE: MIT
-- Author: Tony Narlock (tony@git-pull.com)
+- Author: Tony Narlock (<tony@git-pull.com>)
